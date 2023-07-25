@@ -1,0 +1,108 @@
+[
+    {
+       "title":"Dashboard",
+       "icon":"",
+       "link":"dashboard",
+       "subLinks":[
+          
+       ]
+    },
+    {
+       "title":"Data Exploration",
+       "icon":"",
+       "link":"data-exploration",
+       "subLinks":[
+          {
+             "title":"Make model year",
+             "icon":"",
+             "link":"make-model-year"
+          },
+          {
+             "title":"Dealer",
+             "icon":"",
+             "link":"dealer"
+          },
+          {
+             "title":"Claims",
+             "icon":"",
+             "link":"claims"
+          }
+       ]
+    },
+    {
+       "title":"Safety Analytics 360",
+       "icon":"",
+       "link":"safety-analytics",
+       "subLinks":[
+          
+       ]
+    },
+    {
+       "title":"Competitive Analysis",
+       "icon":"",
+       "link":"competitive-analysis",
+       "subLinks":[
+          
+       ]
+    },
+    {
+       "title":"Insights",
+       "icon":"",
+       "link":"insights",
+       "subLinks":[
+          {
+             "title":"Safety Violation Predications",
+             "icon":"",
+             "link":"safety-violation-predictions"
+          },
+          {
+             "title":"Recommendations",
+             "icon":"",
+             "link":"recommendations"
+          }
+       ]
+    },
+    {
+       "title":"Configuration",
+       "icon":"",
+       "link":"configuration",
+       "subLinks":[
+          {
+             "title":"Data Source",
+             "icon":"",
+             "link":"data-source"
+          },
+          {
+             "title":"Connections",
+             "icon":"",
+             "link":"connections"
+          },
+          {
+             "title":"User Management",
+             "icon":"",
+             "link":"users"
+          },
+          {
+             "title":"Make",
+             "icon":"",
+             "link":"make"
+          }
+       ]
+    },
+    {
+       "title":"Manual Data Upload",
+       "icon":"",
+       "link":"manual-data-upload",
+       "subLinks":[
+          
+       ]
+    },
+    {
+       "title":"Custom Fields",
+       "icon":"",
+       "link":"custom-fields",
+       "subLinks":[
+          
+       ]
+    }
+ ]

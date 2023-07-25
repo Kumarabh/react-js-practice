@@ -1,0 +1,82 @@
+[
+    {
+       "id":1,
+       "name":"Michael Scott",
+       "emailId":"michael.scott@gmail.com",
+       "role":"Admin",
+       "status":"Active",
+       "action":""
+    },
+    {
+       "id":2,
+       "name":"Jane M",
+       "emailId":"jane.m@gmail.com",
+       "role":"Admin",
+       "status":"Active",
+       "action":""
+    },
+    {
+       "id":3,
+       "name":"Michael Scott",
+       "emailId":"michael.scott@gmail.com",
+       "role":"Admin",
+       "status":"Active",
+       "action":""
+    },
+    {
+       "id":4,
+       "name":"Jane Dave",
+       "emailId":"jane.d@gmail.com",
+       "role":"Admin",
+       "status":"Active",
+       "action":"Edit/ Delete"
+    },
+    {
+       "id":5,
+       "name":"Michael Scott",
+       "emailId":"michael.scott@gmail.com",
+       "role":"Admin",
+       "status":"Active",
+       "action":""
+    },
+    {
+       "id":6,
+       "name":"Jane M",
+       "emailId":"jane.m@gmail.com",
+       "role":"admin",
+       "status":"Active",
+       "action":""
+    },
+    {
+       "id":7,
+       "name":"Michael Scott",
+       "emailId":"michael.scott@gmail.com",
+       "role":"Admin",
+       "status":"Active",
+       "action":""
+    },
+    {
+       "id":8,
+       "name":"Jane M",
+       "emailId":"jane.m@gmail.com",
+       "role":"Admin",
+       "status":"Active",
+       "action":""
+    },
+    {
+       "id":9,
+       "name":"John Dave",
+       "emailId":"john.dave@gmail.com",
+       "role":"Admin",
+       "status":"Active",
+       "action":""
+    },
+    {
+       "id":10,
+       "name":"Michael Scott",
+       "emailId":"michael.scott@gmail.com",
+       "role":"Admin",
+       "status":"Active",
+       "action":""
+    }
+ ]

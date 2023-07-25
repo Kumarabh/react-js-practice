@@ -1,0 +1,63 @@
+.dashboard {
+    font-size: 16px;
+    font-weight: bold;
+    background-color: #f5f5f5;
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 1px;
+
+    .charts {
+        display: flex;
+        background-color: white;
+
+        .chart-1 {
+            width: 50%;
+            -webkit-box-shadow: 2px 4px 10px 1px rgba(0, 0, 0, 0.47);
+            box-shadow: 2px 4px 10px 1px rgba(201, 201, 201, 0.47);
+            padding: 10px;
+            margin-right: 10px;
+            border-radius: 5px;
+            min-height: 350px;
+        }
+
+        .chart-2 {
+            width: 25%;
+            -webkit-box-shadow: 2px 4px 10px 1px rgba(0, 0, 0, 0.47);
+            box-shadow: 2px 4px 10px 1px rgba(201, 201, 201, 0.47);
+            padding: 10px;
+            margin-right: 10px;
+            border-radius: 5px;
+            min-height: 350px;
+        }
+
+        .chart-3 {
+            width: 26%;
+            -webkit-box-shadow: 2px 4px 10px 1px rgba(0, 0, 0, 0.47);
+            box-shadow: 2px 4px 10px 1px rgba(201, 201, 201, 0.47);
+            padding: 10px;
+            // margin-right: 10px;
+            border-radius: 5px;
+            min-height: 350px;
+        }
+
+
+    }
+
+    .charts-2 {
+        display: flex;
+        background-color: white;
+        margin-top: 15px;
+        min-height: 240px;
+        margin-bottom: 60px;
+
+        .chart-4 {
+            width: 100%;
+            -webkit-box-shadow: 2px 4px 10px 1px rgba(0, 0, 0, 0.47);
+            box-shadow: 2px 4px 10px 1px rgba(201, 201, 201, 0.47);
+            padding: 10px;
+            border-radius: 5px;
+            min-height: 240px;
+        }
+    }
+}

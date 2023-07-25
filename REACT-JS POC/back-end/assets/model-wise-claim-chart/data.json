@@ -1,0 +1,22 @@
+[
+    {
+       "xAxis":"",
+       "data":1200,
+       "yAxis":0
+    },
+    {
+       "xAxis":"",
+       "data":900,
+       "yAxis":500
+    },
+    {
+       "xAxis":"",
+       "data":600,
+       "yAxis":1000
+    },
+    {
+       "xAxis":"",
+       "data":800,
+       "yAxis":1500
+    }
+ ]

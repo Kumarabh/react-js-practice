@@ -1,0 +1,51 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+.MuiTypography-root {
+
+    font-size: 12px !important;
+    padding: 10px !important;
+}
+.MuiButtonBase-root {
+    background: white !important;
+    color: gray !important;
+}
+.popover-btn {
+  background: white;
+  color: gray;
+  border: none;
+  box-shadow: none !important;
+}
+
+.MuiOutlinedInput-notchedOutline {
+  border: none !important;
+}
+
+.MuiSelect-select {
+  width: 150px !important;
+}
+
+.css-14s5rfu-MuiFormLabel-root-MuiInputLabel-root {
+  font-size: 12px !important;
+}
+
+.select {
+  border: 1px solid lightgray;
+  height: 32px;
+
+}
+.MuiFormControl-root {
+  padding: 5px !important;
+}

@@ -1,0 +1,54 @@
+.sidebar {
+    border-right: 0.5px solid rgb(230, 227, 227);
+    min-height: 100vh;
+    // background-color: white;
+    background-color: #1976D2;
+    padding-left: 0px;
+
+    .center {
+        ul {
+            list-style: none;
+            margin: 0;
+            padding: 0;
+
+            li {
+                display: flex;
+                cursor: pointer;
+
+                &:hover {
+                    background-color: #f7f5ff;
+                    transition: .3s;
+                }
+
+                span {
+                    margin: 10px;
+                }
+
+                a {
+                    font-size: 12px;
+                    font-weight: 400;
+                    color: white;
+                    // margin-left: 15px;
+                    text-decoration: none;
+
+                    &:hover {
+                        color: #757575;
+                    }
+                }
+
+            }
+
+            li.active {
+                background: #2b90f3;
+            }
+        }
+
+        .dropdown-icon {
+            font-size: 20px;
+            color: white;
+            margin-top: 15px;
+            margin-left: 30px;
+        }
+    }
+
+}

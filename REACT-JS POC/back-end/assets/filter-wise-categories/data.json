@@ -1,0 +1,26 @@
+[
+    {
+       "headerText":"Most occuring Violation Category",
+       "value":"Speed Controlling",
+       "upPercentage":12,
+       "downPercentage":12,
+       "upText":"YoY",
+       "downText":"QOQ"
+    },
+    {
+       "headerText":"Model with Most Claims",
+       "value":"Santa Fee",
+       "upPercentage":3,
+       "downPercentage":0.1,
+       "upText":"YoY",
+       "downText":"QOQ"
+    },
+    {
+       "headerText":"Part with Most Claims",
+       "value":"Ignition",
+       "upPercentage":10,
+       "downPercentage":2,
+       "upText":"YoY",
+       "downText":"QOQ"
+    }
+ ]

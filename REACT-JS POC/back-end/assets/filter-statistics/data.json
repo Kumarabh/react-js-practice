@@ -1,0 +1,50 @@
+[
+    {
+       "headerText":"Total Amount Claimed",
+       "value":120,
+       "upPercentage":2,
+       "downPercentage":0.2,
+       "upText":"YoY",
+       "downText":"QOQ"
+    },
+    {
+       "headerText":"Variants",
+       "value":430,
+       "upPercentage":5,
+       "downPercentage":1,
+       "upText":"YoY",
+       "downText":"QOQ"
+    },
+    {
+       "headerText":"Dealers",
+       "value":35,
+       "upPercentage":15,
+       "downPercentage":0.1,
+       "upText":"YoY",
+       "downText":"QOQ"
+    },
+    {
+       "headerText":"Units in Operation",
+       "value":"1.2M",
+       "upPercentage":16,
+       "downPercentage":3,
+       "upText":"YoY",
+       "downText":"QOQ"
+    },
+    {
+       "headerText":"Warranty Claims",
+       "value":1259,
+       "upPercentage":2,
+       "downPercentage":0.2,
+       "upText":"YoY",
+       "downText":"QOQ"
+    },
+    {
+       "headerText":"Service Complaints",
+       "value":1500,
+       "upPercentage":1,
+       "downPercentage":0.6,
+       "upText":"YoY",
+       "downText":"QOQ"
+    }
+ ]

@@ -1,0 +1,14 @@
+.home {
+    .container {
+        display: flex;
+
+        .container-l {
+            width: 15%;
+            background-color: #1976D2;
+
+        }
+        .container-r {
+            width: 85%;
+        }
+    }
+}
